@@ -5,3 +5,7 @@ radian.egg-info/
 .pytest_cache/
 .eggs/
 .coverage
+
+# pixi environments
+.pixi
+*.egg-info
